@@ -1,0 +1,28 @@
+{
+  "name": "recurr",
+  "version": "0.0.1",
+  "description": "RRule js library to find recurrences conforming to rfc5545",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankariyerr/recurr.git"
+  },
+  "keywords": [
+    "recurrence",
+    "rfc5545",
+    "javascript",
+    "js"
+  ],
+  "author": "shankariyzerr",
+  "license": "MIT",
+  "dependencies": {
+    "rrule": "^2.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/shankariyerr/recurr/issues"
+  },
+  "homepage": "https://github.com/shankariyerr/recurr#readme"
+}
