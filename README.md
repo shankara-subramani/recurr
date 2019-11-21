@@ -2,6 +2,10 @@
 RRule library to find recurrences conforming to [rfc5545](https://tools.ietf.org/html/rfc5545)
 
 ## Now available as remote schema 🔗
+#### Graphql Playground
+1. Head over to: [https://recurr.glitch.me](https://recurr.glitch.me)
+2. Execute a query from the 'Sample Query' section
+
 #### Usage with [Hasura](https://hasura.io/):
 
 1. Remix [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/recurr)
@@ -10,7 +14,7 @@ RRule library to find recurrences conforming to [rfc5545](https://tools.ietf.org
 
 3. Add as Remote Schema in Hasura GraphQL Engine.
 
-4. Go to GraphiQL tab, and try out:
+##### Sample Query
 ```
 query {
   findRecurrences(
