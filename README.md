@@ -4,7 +4,7 @@ RRule library to find recurrences conforming to [rfc5545](https://tools.ietf.org
 ## Now available as remote schema 🔗
 #### Graphql Playground
 1. Head over to: [https://recurr.glitch.me](https://recurr.glitch.me)
-2. Execute a query from the 'Sample Query' section
+2. Execute a query from the [Sample Query](https://github.com/shankariyerr/recurr/blob/master/README.md#sample-query) section
 
 #### Usage with [Hasura](https://hasura.io/):
 
