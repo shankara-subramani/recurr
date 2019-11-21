@@ -1,4 +1,5 @@
-# recurr | RRule library to find recurrences conforming to [rfc5545](https://tools.ietf.org/html/rfc5545)
+# recurr 🔄
+### RRule library to find recurrences conforming to [rfc5545](https://tools.ietf.org/html/rfc5545)
 
 ### [Demo](https://recurr.netlify.com/)
 
